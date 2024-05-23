@@ -7,15 +7,15 @@ Welcome to the Shop App, your one-stop solution for a simple shopping experience
 ## Screenshots
 
 ### List Item Page
-Explore a variety of items available in our shop.
+Explore a variety of items available in our shop.<br>
 ![home_page_shop_app](https://github.com/maulss/Shop_app/assets/113650611/364c2723-f4e5-484f-abd8-886e532494e6)
 
 ### Detail Item Page
-Get detailed information about each item before making a purchase.
+Get detailed information about each item before making a purchase.<br>
 ![detail_page](https://github.com/maulss/Shop_app/assets/113650611/fdc64dd5-6dee-4e83-8635-0e5726ab1cc3)
 
 ### Checkout Page
-Review your cart and proceed to checkout seamlessly.
+Review your cart and proceed to checkout seamlessly.<br>
 ![cart_page](https://github.com/maulss/Shop_app/assets/113650611/5bdb8aae-d610-480b-9c83-a24f15a87065)
 
 ## Features
